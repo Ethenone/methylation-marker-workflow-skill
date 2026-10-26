@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "task_id": null,
+  "task_type": "tissue_source",
+  "task_definition": null,
+  "organ": null,
+  "protocol": "fixed_panel",
+  "external_label_use": "evaluation_only",
+  "seed": null,
+  "budget": {"max_seconds": null, "max_memory_mb": null, "cpu": null, "gpu": null, "max_samples": null, "max_regions": null},
+  "statistical_semantics": null,
+  "artifacts": []
+}

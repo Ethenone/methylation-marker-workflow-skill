@@ -1,0 +1,17 @@
+{
+  "note": null,
+  "exit_code": null,
+  "checks": [],
+  "artifacts": [],
+  "reuse_audit": null,
+  "process": {
+    "host": null,
+    "pid": null,
+    "run_directory": null,
+    "command_argv": [],
+    "resource_budget": null
+  },
+  "model_audits": [],
+  "scientific_limitations": [],
+  "model_failures": []
+}
